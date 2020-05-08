@@ -1,0 +1,242 @@
+div nav img{
+    height: 40px;
+    width: 170px;
+}
+.Des{
+    background-color:rgb(6, 110, 255);
+    height: 30px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+.col
+{
+    color:rgb(15, 231, 15) ;
+}
+.intro img 
+{
+    width:25px;
+    height: 25px;
+}
+
+.slider_img
+{
+    height: 400px;
+}
+
+.intro
+{
+    text-align: center;
+}
+
+.strting_intro
+{
+    color: blue;
+}
+
+.intro_last
+{
+    color: green;
+}
+
+.intro_para{
+  width: 70%;
+  margin: auto;
+  text-align: justify;
+}
+.AF{
+    width: 100%;
+    background-color: blue;
+}
+
+.counters
+{
+    text-align: center;
+    line-height: 40px;
+}
+.spoon  
+{
+    color: white;
+}
+
+.card
+{
+    background-color: #fff;
+    height:170px;
+    width: 100%;
+    text-align: center;
+    color:#316DC3;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-family: 'Merriweather', serif;
+    margin-bottom: 20px;
+    box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 40.8px 32.4px rgba(0, 0, 0, 0.086),    
+    0 45px 80px rgba(0, 0, 0, 0.12)
+}
+
+.AF p 
+{
+    font-family: 'Slabo 27px', serif;
+    font-weight: 300;
+    color:white;
+}
+.working
+{
+    background-color:white;
+    text-align: center;
+    color: white;
+}
+
+.container
+{
+    padding: 20px 5px 70px 5px;
+}
+
+.count
+{
+    font-family: 'Merriweather', serif;
+    font-size: 45px;
+}
+.counters
+{
+    line-height: 40px;
+}
+    
+    
+.working_name
+{
+    font-weight: bold;
+   
+}
+.monthly
+{
+    color: rgb(0, 255, 0);
+}
+
+.working img{
+    width: 50px;
+}
+
+.container
+{
+    padding-top: 80px;
+
+}
+.mid{
+    text-align: center;
+    margin-top: 25px;
+}
+.mid1{
+    color: blue;
+}
+.mid2{
+    color: green;
+}
+.mid img 
+{
+    width:25px;
+    height: 25px;
+    
+}
+.Gallery{
+    
+    text-align: center;
+}
+.gal1{
+    color: blue;
+}
+.gal2{
+    color: green;
+}
+.Gallery img{
+    width: 25px;
+    height: 25px;
+}
+.Gallery
+{
+    padding-top: 50px;
+}
+.Gallery h2{
+    text-align: center;
+}
+
+.img
+{
+
+    text-align: center;
+    
+}
+
+
+.img img{
+    width: 220px;
+    height: 140px;
+    margin-bottom: 5px;
+}
+ul
+{
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+.footer
+{
+    background-color: black;
+    color: gray;
+    margin-top: 100px;
+    padding: 35px;
+}
+
+hr{
+    background-color: gray;
+}
+
+.fa-phone , .fa-envelope{
+color: green;
+padding-right: 10px;
+}
+
+.fa-facebook
+{
+    color: #3b5998;
+}
+
+.fa-instagram
+{
+    color: #bc2a8d ;
+}
+
+.fa-youtube
+{
+  color: #bb0000;   
+}
+
+.fa-twitter
+{
+    color: #0084b4;
+}
+
+.end
+{
+    background-color: #316DD9;
+    color: white;
+    height:40px;
+    padding-left:13%;
+    font-size: 12px;
+    padding-top:10px;
+
+}
+.main
+{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
